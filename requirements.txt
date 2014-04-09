@@ -1,0 +1,2 @@
+foursquare==20130707
+requests==2.2.1
